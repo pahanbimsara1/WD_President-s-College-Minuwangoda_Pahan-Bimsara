@@ -31,7 +31,7 @@ users to explore artificial intelligence.
 
  ⚙️ Technical Highlights
 
--   Built with HTML5, CSS3, and JavaScript (ES6).\
+-   Built with HTML, CSS, and JavaScript.\
 -   Optimized with animated canvas effects and **custom page
     loaders.\
 -   Responsive and mobile-friendly.\
